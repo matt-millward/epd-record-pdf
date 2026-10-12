@@ -1,0 +1,53 @@
+{
+  "record_type": "Call",
+  "record_ref": "2026-10-05_Call_Dearneside-Stewart_Phase-two-drawings-variation-layout-lift-openings",
+  "title": "Call: Phase two fabrication drawings, variation layout and lift openings",
+  "meta_fields": [
+    [
+      "Record ID",
+      "2026-10-05_Call_Dearneside-Stewart_Phase-two-drawings-variation-layout-lift-openings"
+    ],
+    [
+      "Job",
+      "26022 Dearneside Phantom Peak (C26.022)"
+    ],
+    [
+      "Type",
+      "Call"
+    ],
+    [
+      "Date",
+      "2026-10-05"
+    ],
+    [
+      "Participants",
+      "Stewart Watts (Dearneside Fabrications, PM), Matthew Millward (EPD)"
+    ],
+    [
+      "Source",
+      "Wispr Flow note, \"Phase Two Fabrication Drawings\""
+    ],
+    [
+      "Notion log",
+      "https://app.notion.com/p/3f06e252f49a81d19466cfeb9afe8f62"
+    ]
+  ],
+  "body_blocks": [
+    {
+      "type": "heading",
+      "text": "Summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Variation layout is blocked only by the two soil pipe areas; the left hand one probably needs just 3 diagonals. Stewart's view is that Janis Komisars controls the design, so EPD sends him a snapshot and asks what he wants rather than designing it. Janis previously took 5 days to comment on something, so a fast reply is being requested, copying Stewart and Mark Jackson (Agilite).\n\nPhase 1 steel is collected at 6am on Tue 6 Oct and goes straight to Tamworth; John may plate some beams the same day. John is putting a site supervisor, Keith, on site from today as point of contact; Stewart will share his number and Matthew will brief him on drilling and assembly. Mitred beams may arrive without the mitre and can be cut on site. The floor is 30mm out, so the shimpacks were worthwhile. Fit-up: the beam web lines up with the centre of the post whichever side the fin plate is on. Phase 2 material is expected this Friday (9 Oct). Anything that can go straight to site will, as with phase 1. Steelstock had not progressed phase 2 five days after the order was placed.\n\nLift openings: Janis's drawing shows soil vent and lift openings marked \"to be coordinated\" that have not been addressed. Stewart priced the variation at about 7 grand and has not been instructed. Likely needs two additional B1s, two trimmers by the lift, shortened cold rolled and an extra row of cleats. EPD has a connection ready (thin plate welded to one side of a beam plus a notch, drillable on site). The area south of the lift is not in the package. Stewart will email the client asking how to proceed, copying Matthew. Related to the Outlook note of 5 Oct (LOA thread forwarded by Stewart), where lift clearances are still awaiting a response.\n\nDecision: phase 2 items that can go straight to site bypass fabrication, as with phase 1."
+    },
+    {
+      "type": "heading",
+      "text": "Filing note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Summary filed from the existing Notion log entry. No transcript stored."
+    }
+  ]
+}
